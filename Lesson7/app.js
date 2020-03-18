@@ -6,3 +6,4 @@ year = 2025;
 ageJohn = 28;
 
 console.log("Ene jil bol: " + year);
+console.log("jadambaa oorchilson")
